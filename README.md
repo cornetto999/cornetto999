@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jake </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Phillipines </h3>
 
 ---
 
 ## 🌐 Connect with me:
-<!-- Add actual links here -->
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="mailto:your@email.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="gmail" /></a>
-  <a href="https://your-portfolio.com" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white" alt="portfolio" /></a>
+  <a href="mailto:roayafrancisjake@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="https://portfolio-rust-ten-2h0rgqghnd.vercel.app/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white" alt="portfolio" />
+  </a>
 </p>
 
 ---
@@ -45,6 +47,6 @@
 
 ## 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Jake's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
