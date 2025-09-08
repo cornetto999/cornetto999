@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jake </h1>
-<h3 align="center">A passionate frontend developer  </h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 ---
 
@@ -46,4 +46,14 @@
 ---
 
 ## 📊 GitHub Stats:
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=cornetto999&show_icons=true&theme=tokyonight" alt="Jake's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cornetto999&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cornetto999&show_icons=true&theme=tokyonight" alt="Jake's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cornetto999&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cornetto999/cornetto999/output/snake.svg" alt="Snake animation" />
+</p>
