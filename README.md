@@ -45,10 +45,23 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=cornetto999&show_icons=true&theme=tokyonight" alt="Jake's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cornetto999&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 Activity Overview
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cornetto999&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cornetto999&theme=tokyonight" alt="Activity Graph" />
 </p>
 
 ---
