@@ -64,9 +64,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cornetto999&theme=tokyonight" alt="Activity Graph" />
 </p>
 
----
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cornetto999/cornetto999/output/snake.svg" alt="Snake animation" />
-</p>
