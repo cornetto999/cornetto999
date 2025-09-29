@@ -8,7 +8,7 @@
   <a href="mailto:roayafrancisjake@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="gmail" />
   </a>
-  <a href="https://portfolio-rust-ten-2h0rgqghnd.vercel.app/" target="blank">
+  <a href="https://portfolioversiontwo.vercel.app/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white" alt="portfolio" />
   </a>
 </p>
